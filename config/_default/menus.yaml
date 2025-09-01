@@ -7,7 +7,7 @@ main:
   - name: Home
     url: '/index.html'
     weight: 10
-  - name: News
+  - name: Project
     url: '#news'
     weight: 20
   - name: Experience
@@ -16,4 +16,5 @@ main:
   - name: Publications
     url: '#publications'
     weight: 40
-  
+  - name: Resume
+    url: "https://caihanlin.com/file/CV-HanlinCAI.pdf"
