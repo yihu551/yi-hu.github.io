@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Simon Gravelle
+title: Yi Hu
 
 # Full name (for SEO)
-first_name: Simon
-last_name: Gravelle
+first_name: Yi
+last_name: Hu
 
 # Status emoji
 status:
@@ -14,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: CNRS research scientist
+role: Ph.D in Biomedical Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: LIPhy, Grenoble, France
-    url: https://liphy.univ-grenoble-alpes.fr/
+  - name: University of Alberta
+    url: https://www.ualberta.ca/en/index.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: Computer physicist in soft matter and fluids at interfaces in LIPhy (UGA, CNRS), in Grenoble, France.
